@@ -1,3 +1,0 @@
-([('GestionRH',
-   '/Users/mac/Downloads/PROJET-RH-PFE-2025-2/dist/GestionRH',
-   'EXECUTABLE')],)
