@@ -45,10 +45,10 @@ class Database:
 
 
 db = Database(
-    user="hr",
-    password="hr",
-    host="localhost",
-    db_name="HR",
-    port=3306
+    user="",
+    password="",
+    host="",
+    db_name="",
+    port=
 )
 
