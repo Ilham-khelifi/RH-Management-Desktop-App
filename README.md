@@ -44,7 +44,7 @@ The application is designed to work **offline**, on a **single workstation**, wi
 > ⬇️ The video demonstrates the main functionalities and navigation of the system.
 
 <!-- VIDEO SECTION -->
-[🎥 Click here to watch the demo video](#)
+[🎥 Click here to watch the demo video](demo)
 
 ---
 
